@@ -1,3 +1,5 @@
+"test stev turtle"
+
 import turtle
 turtle.up()
 turtle.shape('turtle')
